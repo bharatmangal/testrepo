@@ -1,0 +1,62 @@
+{
+	"rooms": [
+	  {
+		"uniqueID": "R001",
+		"roomNumber": "101",
+		"roomName": "",
+		"designatedPerson": "John Doe",
+		"comment": "Main meeting room",
+		"positionConstraints": {
+		  "x": -1.46,
+		  "y": 0.1,
+		  "z": 0
+		},
+		"rotationConstraints": {
+		  "x": 0.0,
+		  "y": 0.0,
+		  "z": 0.0
+		},
+		"floorNumber": "F1",
+		"department": "Admin"
+	  },
+	  {
+		"uniqueID": "R002",
+		"roomNumber": "102",
+		"roomName": "CEO Office",
+		"designatedPerson": "Jane Smith",
+		"comment": "Private office",
+		"positionConstraints": {
+		  "x": 5.19,
+		  "y": 0.0,
+		  "z": -5.3
+		},
+		"rotationConstraints": {
+		  "x": 0.0,
+		  "y": 0.0,
+		  "z": 0.0
+		},
+		"floorNumber": "F2",
+		"department": "Executive"
+	  },
+	  {
+		"uniqueID": "R003",
+		"roomNumber": "103",
+		"roomName": "Development Lab",
+		"designatedPerson": "Mark Johnson",
+		"comment": "R&D Lab",
+		"positionConstraints": {
+		  "x": 5.19,
+		  "y": 6.25,
+		  "z": -5.3
+		},
+		"rotationConstraints": {
+		  "x": 0.0,
+		  "y": 0.0,
+		  "z": 0.0
+		},
+		"floorNumber": "F3",
+		"department": "Research"
+	  }
+	]
+  }
+  
